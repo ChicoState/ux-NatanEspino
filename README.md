@@ -1,3 +1,4 @@
 # Natan Espino's UX Journal
-<br></br>
+<br>
 ![User interface](assets/20250925_123306.jpg)
+<br>
